@@ -6,7 +6,7 @@
 	<groupId>com.damnvunerablewebapp</groupId>
 	<artifactId>www</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>www</name>
 	<description>Highly insecure web application, would advise patching!</description>
